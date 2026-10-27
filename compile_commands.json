@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/aras/Aras Yazılım/Yapay Zeka/GGUF Kullanarak/build",
+  "command": "/usr/bin/c++  -I\"/opt/homebrew/opt/raylib/include\" -I\"/Users/aras/Aras Yazılım/Yapay Zeka/GGUF Kullanarak/llama.cpp/include\" -I\"/Users/aras/Aras Yazılım/Yapay Zeka/GGUF Kullanarak/llama.cpp/ggml/include\" -std=gnu++23 -arch arm64 -o CMakeFiles/chat_app.dir/main.cpp.o -c \"/Users/aras/Aras Yazılım/Yapay Zeka/GGUF Kullanarak/main.cpp\"",
+  "file": "/Users/aras/Aras Yazılım/Yapay Zeka/GGUF Kullanarak/main.cpp",
+  "output": "CMakeFiles/chat_app.dir/main.cpp.o"
+}
+]
